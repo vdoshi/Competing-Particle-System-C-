@@ -1,5 +1,5 @@
 // Derived class
-// Makes the particle walk according to kenrel L=D-A
+// Makes the particle walk according to kernel L=D-A
 
 #ifndef COMBINATORIALKERNEL_H
 #define COMBINATORIALKERNEL_H
